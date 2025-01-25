@@ -299,6 +299,7 @@ header .menu a:active {
 	background-color: var(--aqua_light);
 	filter: blur(100px);
 	opacity: 10%;
+	z-index: 12;
 }
 
 .story h1 {
@@ -389,7 +390,7 @@ header .menu a:active {
 	border-radius: 100%;
 	position: absolute;
 	content: "";
-	top: 30px;
+	top: 50px;
 	left: 50%;
 	transform: translateX(-50%);
 	background-color: var(--aqua_light);
