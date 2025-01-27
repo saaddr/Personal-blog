@@ -113,6 +113,7 @@ header {
 	align-items: center;
 	background-color: var(--aqua_3);
 	backdrop-filter: blur(20px);
+	-webkit-backdrop-filter: blur(20px);
 	box-shadow: 0 10px 20px var(--dark_3);
 	z-index: 100;
 }
