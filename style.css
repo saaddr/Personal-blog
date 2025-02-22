@@ -272,8 +272,8 @@ header .menu a:active {
 }
 
 .badges img {
-	border: 2px dotted var(--light_2);
-	animation: scroll 5s linear infinite;
+	/* border: 2px dotted var(--light_2); */
+	animation: scroll 7s linear infinite;
 	opacity: 80%;
 }
 
