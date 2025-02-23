@@ -247,7 +247,7 @@ header .menu a:active {
 	display: flex;
 	align-items: center;
 	position: relative;
-	margin: 20px;
+	margin: 5px;
 	overflow: hidden;
 }
 
